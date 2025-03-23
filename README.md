@@ -103,5 +103,3 @@ Want to improve the script? Feel free to **fork the repo**, make changes, and su
 This project is licensed under the **MIT License**.  
 
 ---
-
-### ✅ **This README follows GitHub standards. Would you like any final edits before pushing it to your repo?** 😊
